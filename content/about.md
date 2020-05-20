@@ -11,10 +11,10 @@ I collaborate with various teams to find reliable solutions to boda boda hailing
 
 Skilled at:
 
-    * Web Development
-    * Network & Server Administration
-    * Technical Support
-    * Data & Risk Analysis
+* Web Development
+* Network & Server Administration
+* Technical Support
+* Data & Risk Analysis
 
 
 ### How I leisure away?
@@ -22,7 +22,7 @@ Skilled at:
 
 In my spare time I:
 
-    * Travel
-	* Try to solve existential tech problems
-	* Watch movies and listening to new music
-	* Of course some FIFA and COD (Who doesn`t)
+* Travel
+* Try to solve existential tech problems
+* Watch movies and listening to new music
+* Of course some FIFA and COD (Who doesn`t)

@@ -1,7 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Amos Cheruiyot"
-themesDir = "themes/minimal"
 theme = "minimal"
 googleAnalytics = ""
 

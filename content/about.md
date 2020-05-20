@@ -8,7 +8,7 @@ I am  a Product Support  Associate with a love for tech. A jack of all trades an
 ----------
 An enthusiast of all things web dev especially JS frameworks.
 
-Collaborate with Ops and Product teams to find the fastest and most efficient way to develop and improce boda boda hailing solutions at SafeBoda Kenya.
+Collaborate with Ops and Product teams to find the fastest and most efficient way to develop and improve boda boda hailing solutions at SafeBoda Kenya.
 
 Skilled at Web Development, Network & Server Administration,Technical Support, Data & Risk Analysis
 

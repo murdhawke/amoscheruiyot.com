@@ -1,6 +1,7 @@
 baseURL = "http://amoscheruiyot.com/"
 languageCode = "en-us"
 title = "Amos Cheruiyot"
+theme = "themes/minimal"
 theme = "minimal"
 googleAnalytics = ""
 
